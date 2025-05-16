@@ -51,6 +51,6 @@ In construction and manufacturing, accurate rebar counts are crucial for quality
 ## 🔎 Demo
 
 Test the live rebar counting app here:  
-👉 **[Hugging Face Spaces – Rebar YOLOv8 App](https://huggingface.co/spaces/cl0504/rebar-yolov8-app)**
+**[Hugging Face Spaces – Rebar YOLOv8 App](https://huggingface.co/spaces/cl0504/rebar-yolov8-app)**
 
 ---
