@@ -1,4 +1,4 @@
-# 🚀 Rebar-YOLOv8-Model
+# Rebar-YOLOv8-Model
 
 ## 🎯 Overview
 
