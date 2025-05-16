@@ -13,11 +13,11 @@ In construction and manufacturing, accurate rebar counts are crucial for quality
 
 ## ⭐ Features
 
-- 🏗️ **Dataset merging**: Combine Huawei & company datasets seamlessly
-- 🔄 **Advanced augmentations**: Mosaic, mixup, color jitter for occlusion handling
-- 📈 **Comprehensive metrics**: Training curves, validation mAPs, test-set evaluation
-- 🎨 **Interactive inference**: Bounding box overlays with object count display
-- ☁️ **Colab-ready**: One-click runtime on free GPU
+- **Dataset merging**: Combine Huawei & company datasets seamlessly
+- **Advanced augmentations**: Mosaic, mixup, color jitter for occlusion handling
+- **Comprehensive metrics**: Training curves, validation mAPs, test-set evaluation
+- **Interactive inference**: Bounding box overlays with object count display
+- **Colab-ready**: One-click runtime on free GPU
 
 ---
 
@@ -45,5 +45,12 @@ In construction and manufacturing, accurate rebar counts are crucial for quality
    ```
 
    Or open it directly from Colab if you prefer cloud execution.
+
+---
+
+## 🔎 Demo
+
+Test the live rebar counting app here:  
+👉 **[Hugging Face Spaces – Rebar YOLOv8 App](https://huggingface.co/spaces/cl0504/rebar-yolov8-app)**
 
 ---
