@@ -78,4 +78,6 @@ These results demonstrate that the YOLOv8-based model performs extremely well in
 Test the live rebar counting app here:  
 **[Hugging Face Spaces – Rebar YOLOv8 App](https://huggingface.co/spaces/cl0504/rebar-yolov8-app)**
 
+<img width="1567" height="751" alt="Rebar YOLOv8 App Demo" src="https://github.com/user-attachments/assets/f4e49007-5dc3-437b-9a5c-a23aa4977759" />
+
 ---
