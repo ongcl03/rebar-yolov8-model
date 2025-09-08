@@ -9,6 +9,8 @@ In construction and manufacturing, accurate rebar counts are crucial for quality
 3. **Evaluate** using mAP@0.50 and mAP@0.50–0.95
 4. **Infer** on new images and **visualize** bounding boxes and rebar counts
 
+<img width="1567" height="751" alt="Rebar YOLOv8 App Demo" src="https://github.com/user-attachments/assets/f4e49007-5dc3-437b-9a5c-a23aa4977759" />
+
 ---
 
 ## ⭐ Features
@@ -77,7 +79,5 @@ These results demonstrate that the YOLOv8-based model performs extremely well in
 
 Test the live rebar counting app here:  
 **[Hugging Face Spaces – Rebar YOLOv8 App](https://huggingface.co/spaces/cl0504/rebar-yolov8-app)**
-
-<img width="1567" height="751" alt="Rebar YOLOv8 App Demo" src="https://github.com/user-attachments/assets/f4e49007-5dc3-437b-9a5c-a23aa4977759" />
 
 ---
